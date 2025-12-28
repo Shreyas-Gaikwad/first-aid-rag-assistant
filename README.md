@@ -208,5 +208,5 @@ Please open issues or submit pull requests for:
 ## Author
 
 Built by **Shreyas Gaikwad**
-Applied Machine Learning · Retrieval-Augmented Generation · Offline AI Systems
 
+Focus: Applied Machine Learning · Retrieval-Augmented Generation · Offline AI Systems
