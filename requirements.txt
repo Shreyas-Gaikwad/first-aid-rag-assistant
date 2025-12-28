@@ -1,0 +1,14 @@
+torch>=2.1
+transformers>=4.40
+sentencepiece
+pypdf
+
+faiss-cpu
+
+llama-cpp-python>=0.2.75
+
+numpy
+tqdm
+regex
+
+gradio>=4.0
