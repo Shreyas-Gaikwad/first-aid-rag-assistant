@@ -1,12 +1,12 @@
 # First Aid RAG Assistant (Offline)
 
-<img width="1907" height="677" alt="image" src="https://github.com/user-attachments/assets/c3dc11c6-6600-4cc1-b5c9-27b267b64904" />
-
 An end-to-end, **offline-first retrieval-augmented generation (RAG) system** for first-aid guidance, built with a strong focus on **safety, determinism, and local inference**.
 
 This project goes beyond a basic chatbot by implementing a full RAG pipeline: PDF knowledge ingestion, semantic chunking, dense vector retrieval with FAISS, and a **strictly constrained local LLM** to reduce hallucinations in a medical-adjacent domain.
 
 The system is designed to run **entirely offline**, making it suitable for low-connectivity or privacy-sensitive environments.
+
+<img width="1907" height="677" alt="image" src="https://github.com/user-attachments/assets/c3dc11c6-6600-4cc1-b5c9-27b267b64904" />
 
 **Tech Stack:**
 Python · PyTorch · Hugging Face Transformers · FAISS · LLaMA.cpp · Gradio
@@ -209,3 +209,4 @@ Please open issues or submit pull requests for:
 
 Built by **Shreyas Gaikwad**
 Applied Machine Learning · Retrieval-Augmented Generation · Offline AI Systems
+
